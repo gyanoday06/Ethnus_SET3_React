@@ -1,11 +1,12 @@
-* {
-    background-color: #272727;
-    color: white;
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
 }
 
 /* Hide the default scrollbar */
 ::-webkit-scrollbar {
-    width: 6px;
+    width: 0px;
     /* Adjust this value to change the width of the scrollbar */
 }
 
@@ -21,16 +22,49 @@
     /* Hide the scrollbar thumb border */
 }
 
-table {
+/* Index.module.css */
+
+
+  
+  .index-title {
+    margin: 2%;
+  }
+  
+  .table--index {
+    border: 1px solid black;
+  }
+  
+  .table--index caption h2 {
+    margin-bottom: 0.5rem;
+  }
+  
+  .table--index td,
+  .table--index th {
+    border: 1.5px solid black;
+    padding: 17px;
+  }
+  
+  .table-container {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+
+.task1{
+    background-color: #272727;
+    color: white;
+}
+
+.task1--table {
     border: 1px solid white;
     border-radius: 10px;
     padding: 1%;
 }
 
-table tr>th {
+.task1--table tr>th {
     text-decoration: underline;
 }
 
-td {
+.task1--table td {
     text-align: center;
 }

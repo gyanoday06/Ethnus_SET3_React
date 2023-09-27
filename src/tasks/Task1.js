@@ -16,10 +16,10 @@ function UserTable() {
     }, []);
 
     return (
-        <div>
+        <div className='task1' style={{paddingTop: "2%"}}>
             <center>
-                <h1>Dummy data</h1>
-                <table>
+                <h1 style={{marginBottom: "2%"}}>Dummy data</h1>
+                <table className='task1--table'>
                     <thead>
                         <tr>
                             <th>Sno</th>
