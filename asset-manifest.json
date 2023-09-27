@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ethnus_SET3_React/static/css/main.abe60c4b.css",
-    "main.js": "/Ethnus_SET3_React/static/js/main.5a1487f6.js",
+    "main.css": "/Ethnus_SET3_React/static/css/main.a709e624.css",
+    "main.js": "/Ethnus_SET3_React/static/js/main.0185c5a9.js",
     "static/js/787.8497854e.chunk.js": "/Ethnus_SET3_React/static/js/787.8497854e.chunk.js",
     "index.html": "/Ethnus_SET3_React/index.html",
-    "main.abe60c4b.css.map": "/Ethnus_SET3_React/static/css/main.abe60c4b.css.map",
-    "main.5a1487f6.js.map": "/Ethnus_SET3_React/static/js/main.5a1487f6.js.map",
+    "main.a709e624.css.map": "/Ethnus_SET3_React/static/css/main.a709e624.css.map",
+    "main.0185c5a9.js.map": "/Ethnus_SET3_React/static/js/main.0185c5a9.js.map",
     "787.8497854e.chunk.js.map": "/Ethnus_SET3_React/static/js/787.8497854e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abe60c4b.css",
-    "static/js/main.5a1487f6.js"
+    "static/css/main.a709e624.css",
+    "static/js/main.0185c5a9.js"
   ]
 }
