@@ -1,5 +1,5 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Idx from "./Idx"
+import { HashRouter as Router, Routes, Route, Link } from "react-router-dom";
+import Idx from "./Idx";
 import Task1 from "./tasks/Task1";
 import Task2 from "./tasks/Task2";
 import Task3 from "./tasks/Task3";
@@ -12,7 +12,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <Router>
         <Routes>
           <Route path="/" element={<Idx />} />
           <Route path="/task1" element={<Task1 />} />
@@ -22,7 +22,7 @@ function App() {
           <Route path="/task5" element={<Task5 />} />
           <Route path="/task6" element={<Task6 />} />
         </Routes>
-      </BrowserRouter>
+      </Router>
     </div>
   );
 }

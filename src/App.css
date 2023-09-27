@@ -1,70 +1,79 @@
-*{
-    border: 0;
-    margin: 0;
-    padding: 0;
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
 }
 
 /* Hide the default scrollbar */
 ::-webkit-scrollbar {
-    width: 0px;
-    /* Adjust this value to change the width of the scrollbar */
+  width: 0px;
+  /* Adjust this value to change the width of the scrollbar */
 }
 
 ::-webkit-scrollbar-track {
-    background-color: transparent;
-    /* Hide the scrollbar track */
+  background-color: transparent;
+  /* Hide the scrollbar track */
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: transparent;
-    /* Hide the scrollbar thumb */
-    border: none;
-    /* Hide the scrollbar thumb border */
+  background-color: transparent;
+  /* Hide the scrollbar thumb */
+  border: none;
+  /* Hide the scrollbar thumb border */
 }
 
-/* Index.module.css */
+.index-title {
+  margin: 2%;
+}
+
+.table--index {
+  border: 1px solid black;
+}
+
+.table--index caption h2 {
+  margin-bottom: 0.5rem;
+  margin-top: -222%;
+  color: black;
+}
+
+.table--index td,
+.table--index th {
+  border: 1.5px solid black;
+  padding: 17px;
+}
+
+.table-container {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 10%;
+}
 
 
-  
-  .index-title {
-    margin: 2%;
-  }
-  
-  .table--index {
-    border: 1px solid black;
-  }
-  
-  .table--index caption h2 {
-    margin-bottom: 0.5rem;
-  }
-  
-  .table--index td,
-  .table--index th {
-    border: 1.5px solid black;
-    padding: 17px;
-  }
-  
-  .table-container {
-    display: flex;
-    justify-content: space-evenly;
-  }
-  
-
-.task1{
-    background-color: #272727;
-    color: white;
+.task1 {
+  background-color: #272727;
+  color: white;
 }
 
 .task1--table {
-    border: 1px solid white;
-    border-radius: 10px;
-    padding: 1%;
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 1%;
 }
 
 .task1--table tr>th {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .task1--table td {
-    text-align: center;
+  text-align: center;
+}
+
+.task5{
+  margin-top: 10%;
+}
+
+.task5 input{
+  border: 1px solid lightgray;
+  padding: 0.3rem;
+  margin-bottom: 1%;
 }

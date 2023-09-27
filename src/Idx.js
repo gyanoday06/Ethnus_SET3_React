@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import { Link } from 'react-router-dom';
 
 export default function Idx() {
   return (
@@ -27,7 +28,7 @@ function generateTaskRows(folder, rowCount) {
         <td>{i}</td>
         <td>Task {i}</td>
         <td>
-          <a href={`./task${i}`}>Link</a>
+          <Link to={`/task${i}`}>Link</Link>
         </td>
       </tr>
     );
