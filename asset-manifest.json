@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ethnus_SET3_React/static/css/main.3419a030.css",
-    "main.js": "/Ethnus_SET3_React/static/js/main.c5b42db9.js",
+    "main.css": "/Ethnus_SET3_React/static/css/main.c16c1f75.css",
+    "main.js": "/Ethnus_SET3_React/static/js/main.803ae5f5.js",
     "static/js/787.8497854e.chunk.js": "/Ethnus_SET3_React/static/js/787.8497854e.chunk.js",
     "index.html": "/Ethnus_SET3_React/index.html",
-    "main.3419a030.css.map": "/Ethnus_SET3_React/static/css/main.3419a030.css.map",
-    "main.c5b42db9.js.map": "/Ethnus_SET3_React/static/js/main.c5b42db9.js.map",
+    "main.c16c1f75.css.map": "/Ethnus_SET3_React/static/css/main.c16c1f75.css.map",
+    "main.803ae5f5.js.map": "/Ethnus_SET3_React/static/js/main.803ae5f5.js.map",
     "787.8497854e.chunk.js.map": "/Ethnus_SET3_React/static/js/787.8497854e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3419a030.css",
-    "static/js/main.c5b42db9.js"
+    "static/css/main.c16c1f75.css",
+    "static/js/main.803ae5f5.js"
   ]
 }
