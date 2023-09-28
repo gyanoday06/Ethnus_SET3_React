@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Ethnus_SET3_React/static/css/main.c16c1f75.css",
-    "main.js": "/Ethnus_SET3_React/static/js/main.803ae5f5.js",
+    "main.js": "/Ethnus_SET3_React/static/js/main.0143b95f.js",
     "static/js/787.8497854e.chunk.js": "/Ethnus_SET3_React/static/js/787.8497854e.chunk.js",
     "index.html": "/Ethnus_SET3_React/index.html",
     "main.c16c1f75.css.map": "/Ethnus_SET3_React/static/css/main.c16c1f75.css.map",
-    "main.803ae5f5.js.map": "/Ethnus_SET3_React/static/js/main.803ae5f5.js.map",
+    "main.0143b95f.js.map": "/Ethnus_SET3_React/static/js/main.0143b95f.js.map",
     "787.8497854e.chunk.js.map": "/Ethnus_SET3_React/static/js/787.8497854e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c16c1f75.css",
-    "static/js/main.803ae5f5.js"
+    "static/js/main.0143b95f.js"
   ]
 }
