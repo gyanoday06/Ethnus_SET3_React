@@ -1,4 +1,4 @@
-import { HashRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Idx from "./Idx";
 import Task1 from "./tasks/Task1";
 import Task2 from "./tasks/Task2";

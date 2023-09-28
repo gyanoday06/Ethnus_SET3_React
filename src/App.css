@@ -49,23 +49,31 @@
 }
 
 
-.task1 {
+.task4 {
   background-color: #272727;
   color: white;
 }
 
-.task1--table {
+.task4--table {
   border: 1px solid white;
   border-radius: 10px;
   padding: 1%;
+  border-collapse: separate;
+  border-spacing: 1%;
 }
 
-.task1--table tr>th {
+.task4--table tr>th {
   text-decoration: underline;
+  text-align: center;
 }
 
-.task1--table td {
+.task4--table td {
   text-align: center;
+}
+
+.task4--table th,
+.task4--table td {
+  padding-inline: 10px;
 }
 
 .task5{
