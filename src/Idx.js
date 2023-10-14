@@ -15,7 +15,16 @@ export default function Idx() {
             {generateTaskRows('React_Tasks', 6)}
           </tbody>
         </table>
-      </div>
+      </div> <br />
+      <center>
+      <h5>
+        Repository link - <a href="https://github.com/gyanoday06/Ethnus_SET3_React.git">https://github.com/gyanoday06/Ethnus_SET3_React.git</a>
+      </h5>
+      <br />
+        <h5>
+          • I have deployed in Github because I have used HashRouter and its not getting deployed in vercel
+        </h5>
+      </center>
     </div>
   );
 }
