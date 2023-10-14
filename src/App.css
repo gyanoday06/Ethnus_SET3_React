@@ -190,3 +190,73 @@ button{
   display:flex;
   margin-left: 20%;
 }
+
+/* Task 6 */
+.portfolio {
+  margin: 0 auto;
+  padding-inline: 5%;
+  background-color: #222;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.portfolio--img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.portfolio header {
+  text-align: center;
+}
+
+.portfolio header h1 {
+  font-size: 32px;
+  color: #fff;
+}
+
+.portfolio header p {
+  font-size: 16px;
+  color: #ccc;
+}
+
+.portfolio h1 {
+  font-size: 36px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.portfolio h2 {
+  font-size: 28px;
+  color: #fff;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.portfolio p {
+  font-size: 20px;
+  color: #ccc;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+.portfolio ul, ol {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.portfolio li {
+  font-size: 18px;
+  color: #ccc;
+  margin-bottom: 5px;
+}
+
+.portfolio a {
+  color: #007BFF;
+  text-decoration: none;
+  transition: text-decoration 0.2s;
+}
+
+.portfolio a:hover {
+  text-decoration: underline;
+}
